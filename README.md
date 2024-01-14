@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on as a freelance developer.
+- 🌱 I’m currently learning and obtaining knowledge about how to develop software application.
+- 👯 I’m looking to collaborate on certain project ideas to solve real problems.
+- 📫 How to reach me: mars.paray@gmail.com
+
+
 <!--
 **Nevram30/Nevram30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
