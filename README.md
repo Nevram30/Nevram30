@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m a freelance developer.<br> I’m currently learning and obtaining knowledge about how to develop software applications.<br> I want to collaborate on certain project ideas to solve real problems.<br>  How to reach me: mars.paray@gmail.com
+Creating.<br> Developing.<br> Designing.<br>  How to reach me: mars.paray@gmail.com
 
 
 ## 🌐 Socials:
