@@ -1,5 +1,5 @@
 # 💫 About Me:
-Creating.<br> Developing.<br> Designing.<br>  How to reach me: mars.paray@gmail.com
+Hire Me! How to reach me: mars.paray@gmail.com
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/marvenparay) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/marvinskywalker95) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/marvenparay/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marven-paray) 
